@@ -1,6 +1,7 @@
 # What's this repo?
 
 An easy snake game coded with HTML, CSS and JavaScript.
+Made by cann66
 
 ![image](https://github.com/cann66dev/SnakeGame/assets/49042417/b531b919-35a5-425a-8768-55992f47a096)
 
